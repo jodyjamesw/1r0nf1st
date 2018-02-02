@@ -1,0 +1,34 @@
+{
+  "name": "1r0nf1st",
+  "version": "1.0.0",
+  "description": "1r0nF1st_Web site for 1r0nf1st",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-useref": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodyjamesw/1r0nf1st.git"
+  },
+  "keywords": [
+    "1r0nf1st",
+    "web",
+    "technology"
+  ],
+  "author": "Jody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodyjamesw/1r0nf1st/issues"
+  },
+  "homepage": "https://github.com/jodyjamesw/1r0nf1st#readme"
+}
