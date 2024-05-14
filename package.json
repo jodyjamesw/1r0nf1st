@@ -4,12 +4,12 @@
   "description": "1r0nF1st_Web site for 1r0nf1st",
   "main": "index.js",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^4.0.0"
   },
   "devDependencies": {
     "browser-sync": "^2.23.5",
     "glob": "^7.1.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-imagemin": "^4.1.0",
     "gulp-useref": "^3.1.4"
   },
